@@ -74,7 +74,7 @@ html {
 /* ################ showcase area styling ############### */
 
 .showcase-section {
-    background: url(./img/header-image2.jpg);
+    background: url(./img/header.jpg);
     height: 60vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -195,5 +195,5 @@ html {
 }
 .boxes:hover::after{
     opacity: 1;     
-    background-color: rgba(39, 32, 32, 0.839);   
+    background-color: rgba(39, 32, 32,0.839);
 }
